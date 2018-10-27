@@ -1,5 +1,5 @@
 # HelloWorld
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?)](#contributors)
 Status: [![Build Status](https://travis-ci.com/piyush97/HelloWorld.svg?branch=master)](https://travis-ci.com/piyush97/HelloWorld)
 <br/>
 HacktoberFest Hello World in every language ever.
